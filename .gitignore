@@ -1,3 +1,12 @@
+# Programs
+openmp_increment_1
+openmp_increment_threads
+openmp_blas
+cuda_increment_1
+cuda_increment_threads
+cuda_single_iter
+cuda_blas
+
 # Prerequisites
 *.d
 
